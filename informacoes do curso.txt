@@ -48,3 +48,7 @@ git remote add origin git@github.com:anderson-pitagoras/curso-django-projeto1.gi
 
 Para visualisar 
 git remote -v
+
+git push 
+
+git push --set-upstream origin main
